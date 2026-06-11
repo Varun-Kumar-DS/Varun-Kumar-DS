@@ -1,8 +1,8 @@
 # Hi, I'm Varun 👋
 
-**Junior Data Scientist · AI Engineer · MSc Data Science & AI - University of Liverpool (2025–26)**
+**Junior Data Scientist · AI Engineer · MSc Data Science & AI — University of Liverpool (2025–26)**
 
-I build AI systems that ship — from LLM-powered assistants serving live traffic to ML pipelines solving real business problems. My work bridges applied research and production deployment, with a current focus on **prompt engineering for large language models** and **end-to-end ML applications**.
+I build AI systems that ship - from LLM-powered assistants serving live traffic to ML pipelines solving real business problems. My work bridges applied research and production deployment, with a current focus on **prompt engineering for large language models** and **end-to-end ML applications**.
 
 ---
 
@@ -21,18 +21,21 @@ I build AI systems that ship — from LLM-powered assistants serving live traffi
 
 | Project | Status |
 |---|---|
-| 🤖 **BERU** — LLM portfolio assistant (Flask + Groq + LLaMA 3.3 70B) | `deployed` |
-| 📄 **MSc Dissertation** — *Prompt Engineering for AI Language Models* (Anthropic Claude API) | `active` |
-| 🎨 **Portfolio v2** — varun-kumar-ds.github.io with GSAP animations + BERU integration | `active` |
+| 🤖 **BERU** - LLM portfolio assistant (Flask + Groq + LLaMA 3.3 70B) | `deployed` |
+| 📄 **MSc Dissertation** - *Prompt Engineering for AI Language Models* (Anthropic Claude API) | `active` |
+| 🎨 **Portfolio v2** - varun-kumar-ds.github.io with GSAP animations + BERU integration | `active` |
 
 ---
 
 ### 📑 Research & Featured Work
 
-- **IoT Air Quality Monitoring System** — presented at *National Conference 2024* · real-time AQI sensing & dashboard
-- **B.E.R.U** — production LLM assistant deployed at [varun-kumar-ds.github.io](https://varun-kumar-ds.github.io) · serves recruiter queries via Groq-hosted LLaMA 3.3 70B
-- **Plant Disease Detection** — CNN classifier for crop disease identification from leaf imagery
-- **Telecom Churn Prediction** — end-to-end ML pipeline with class-imbalance handling for retention modelling
+- **IoT Air Quality Monitoring System** - presented at *National Conference 2024* · real-time AQI sensing & dashboard
+- **B.E.R.U** - production LLM assistant deployed at [varun-kumar-ds.github.io](https://varun-kumar-ds.github.io) · serves recruiter queries via Groq-hosted LLaMA 3.3 70B
+- **Gradio Health Chatbot** - early LLM exploration using `microsoft/phi-1.5` + Hugging Face Transformers, informing BERU's production architecture
+- **Plant Disease Detection** - CNN classifier for crop disease identification from leaf imagery
+- **Twitter Sentiment Analysis** - end-to-end NLP pipeline (scraping → preprocessing → classification) for social-media sentiment
+- **E-commerce Customer Segmentation** - RFM analysis + K-Means clustering to surface actionable customer personas
+- **Telecom Churn Prediction** - end-to-end ML pipeline with class-imbalance handling for retention modelling
 
 ---
 
@@ -61,4 +64,4 @@ I build AI systems that ship — from LLM-powered assistants serving live traffi
 
 ---
 
-*Open to Junior AI Engineer and Data Scientist roles in the United Kingdom.*
+*Open to Junior Data Scientist and AI Engineer roles in the United Kingdom/EU/India.*
