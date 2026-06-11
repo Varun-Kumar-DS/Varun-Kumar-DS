@@ -1,6 +1,6 @@
 # Hi, I'm Varun 👋
 
-**Junior Data Scientist · AI Engineer · MSc Data Science & AI — University of Liverpool (2025–26)**
+**Junior Data Scientist · AI Engineer · MSc Data Science & AI - University of Liverpool (2025–26)**
 
 I build AI systems that ship - from LLM-powered assistants serving live traffic to ML pipelines solving real business problems. My work bridges applied research and production deployment, with a current focus on **prompt engineering for large language models** and **end-to-end ML applications**.
 
@@ -55,12 +55,21 @@ I build AI systems that ship - from LLM-powered assistants serving live traffic 
 
 ---
 
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Varun-Kumar-DS&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varun-Kumar-DS&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
 ### 📫 Connect
 
-![Portfolio](https://img.shields.io/badge/Portfolio-varun--kumar--ds.github.io-e11d48?style=for-the-badge)
-![LinkedIn](https://img.shields.io/badge/LinkedIn-Varun_Kumar-0A66C2?style=for-the-badge)
-![Email](https://img.shields.io/badge/Email-YOUR--EMAIL%40example.com-EA4335?style=for-the-badge)
-![GitHub](https://img.shields.io/badge/GitHub-Varun--Kumar--DS-181717?style=for-the-badge)
+[![Portfolio](https://img.shields.io/badge/Portfolio-varun--kumar--ds.github.io-e11d48?style=for-the-badge)](https://varun-kumar-ds.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Varun_Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varun-kumar-ai)
+[![Email](https://img.shields.io/badge/Email-varunzayne%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:varunzayne@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Varun--Kumar--DS-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Varun-Kumar-DS)
 
 ---
 
