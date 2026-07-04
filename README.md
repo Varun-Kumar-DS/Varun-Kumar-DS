@@ -74,7 +74,7 @@ I work at the intersection of applied research and real-world deployment — fro
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Varun-Kumar-DS&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Varun-Kumar-DS&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varun-Kumar-DS&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
