@@ -71,16 +71,6 @@ I work at the intersection of applied research and real-world deployment — fro
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.demolab.com/?user=Varun-Kumar-DS&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varun-Kumar-DS&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
-</p>
-
 ### Contribution Graph
 
 <p align="center">
