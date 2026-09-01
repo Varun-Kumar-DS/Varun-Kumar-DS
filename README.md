@@ -60,7 +60,7 @@
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Varun-Kumar-DS&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=e11d48&icon_color=e11d48&text_color=c9d1d9&ring_color=e11d48&count_private=true&include_all_commits=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Varun-Kumar-DS&theme=radical&hide_border=true&background=0D1117&ring=e11d48&fire=e11d48&currStreakLabel=e11d48&sideLabels=c9d1d9&dates=6e7681" width="48%" />
+<img src="https://streak-stats.demolab.com/?user=Varun-Kumar-DS&theme=radical&hide_border=true&background=0D1117&ring=e11d48&fire=e11d48&currStreakLabel=e11d48&sideLabels=c9d1d9&dates=6e7681" width="48%" />
 
 </div>
 
